@@ -1,0 +1,26 @@
+This project uses the Tkinter framework in Python for creating the graphical user interface (GUI).
+
+Key Points about Tkinter in this Project:
+Tkinter: Tkinter is the standard GUI library for Python, used to create windows, dialogs, buttons, and other GUI components. It is a wrapper around the Tk GUI toolkit.
+
+Key Components Used:
+
+Tk(): Creates the main window of the application.
+Button: A clickable button, used to trigger different actions such as adding, viewing, updating, or deleting contacts.
+messagebox: A module from Tkinter used to display informational, warning, or error messages in pop-up windows.
+simpledialog: A module from Tkinter that provides simple dialog boxes for getting user input, such as asking for a contact name or phone number.
+pack(): A geometry manager in Tkinter used to organize and display widgets (like buttons) inside the window.
+configure(bg=...): This sets the background color of the main window.
+Why Tkinter?
+Simple and Lightweight: Tkinter is easy to use and ideal for small to medium-sized desktop applications.
+Cross-platform: Tkinter works on all major platforms (Windows, macOS, Linux) without requiring any additional installation, as it comes bundled with Python.
+Quick Development: Tkinter provides a simple way to develop GUI applications without needing to learn more complex frameworks or tools.
+Conclusion:
+The framework used in this project is Tkinter, which is the built-in GUI toolkit for Python. It allows the creation of interactive desktop applications with components like buttons, input dialogs, and message boxes.
+
+
+
+
+
+
+
